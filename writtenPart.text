@@ -1,0 +1,42 @@
+
+es the acronym KISS mean and how does following this make you a better computer programmer?	
+	A.  Keep it simple stupid.
+2.	What does the acronym DRY mean and why is it an essential principle of being a good computer programmer?
+	A.  Don't repeat yourself.
+3.	What is the difference between a database like MongoDB and MySQL?
+	A.  MongoDB allows you to put an entire table in one cell where as MySQL only allows one piece of data per cell 
+		necessitating the need for many tables thus the need for relations.
+4.	If you were asked to write a program that could write at least 50 different HTML tags how would you do it?
+	A. use a function in PHP that allows a user to pass in the tag name as a variable and let the program do the rest. 
+5.	What software design pattern would you be demonstrating in in the above solution?
+	A. Object oriented programming.
+6.	What version control system(s) have you used?
+	A. Github.
+7.	What is GitHub and have you ever used it? 
+	A. a version control system that allows for joint version control among many other features, YES!.
+8.	What is the command to create a GIT repository
+	A. git init
+9.	What is the command to tell GIT to start tracking the file?
+	A. git add <file name>
+10.	What is the command to commit your changes to the GIT log?
+	git commit -m 'some comment'
+11.	What is the command to add a remote repository?
+	 git remote add origin git@github.com:<user name>/<file name>.git
+12.	What is the command to send your committed changes to the remote repository?
+	A. git push -u origin master.
+13.	What is your experience working in a software development team?
+	A. In a class project collaberation of  file functions  and html tags functions 
+14.	How would you create a new file and directory in linux?
+	A. NEW DIRECTORY- mkdir <directory name>, NEW FILE - vi <file name>.php
+15.	How would you set the permissions on a file / folder, so that another user can write to it   i.e. so you the webserver can upload a file to the directory.
+	A. in github go to control setting and allow other to edit 
+16.	What program do you use to write your PHP code?
+	A. eclipse and vi editor.
+17.	What is a constructor in PHP and how/why would you use it?
+	A. the function the is called automatically when you instantiate the class, used so you don't have to specify the function name
+18.	What is the difference between a class and an object?
+	A. the class is the blueprint the object is the actual instantiation of it.
+19.	Why is it important to comment / document your code?
+	A. to make it reusable
+20.	What traits do you think a good computer programmer has?
+	A. the ablilty to think through a problem clearly and to be able to break down the problem into smaller conquerable pieces.
